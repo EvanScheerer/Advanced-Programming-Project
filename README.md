@@ -25,10 +25,10 @@ customer table for project:<br>
   Customer code for project: This is the start of the CRUD options for the customer table using try/catch statement<br>
   <img src="screen5.png"><br>
 
-  Actors code for project:<br>
+  Actors code for project: Start of actors file using try/catch for CRUD <br>
   <img src="screen6.png"><br>
 
-  reports code for project:<br>
+  reports code for project: Start of reports file where try/catch is used for CRUD <br>
   <img src="screen7.png"><br>
 
 </p>
