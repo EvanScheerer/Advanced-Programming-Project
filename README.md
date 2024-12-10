@@ -22,7 +22,7 @@ customer table for project:<br>
   Reports Table for project:<br>
   <img src="screen4.png"><br>
 
-  Customer code for project:<br>
+  Customer code for project: This is the start of the CRUD options for the customer table using try/catch statement<br>
   <img src="screen5.png"><br>
 
   Actors code for project:<br>
