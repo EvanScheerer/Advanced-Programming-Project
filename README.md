@@ -13,6 +13,24 @@ Dr. Pamela Thompson (instructor)<br>
   Main menu for project:<br>
   <img src="screen1.png"><br>
 
+customer table for project:<br>
+  <img src="screen2.png"><br>
+
+  Actors Table for project:<br>
+  <img src="screen3.png"><br>
+
+  Reports Table for project:<br>
+  <img src="screen4.png"><br>
+
+  Customer code for project:<br>
+  <img src="screen5.png"><br>
+
+  Actors code for project:<br>
+  <img src="screen6.png"><br>
+
+  reports code for project:<br>
+  <img src="screen7.png"><br>
+
 </p>
 <br>
 
